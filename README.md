@@ -1,1 +1,1 @@
-Final release pj snake
+Final release pj snake (multi-colored)
